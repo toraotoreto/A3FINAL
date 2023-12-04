@@ -1,0 +1,7 @@
+grupo: Ana Joao Jonas Tiao 
+grupo: Carol Maia Fabiana
+grupo: Maria Manuel Augusto
+existe: Bia
+existe: Cleber
+conhece: Ana Joao
+conhece: Maia Maria
