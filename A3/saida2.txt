@@ -1,0 +1,6 @@
+[Bia] NAO existe!
+[Cleber] NAO existe!
+[Ana] conhece [JOAO]
+[Maia] NAO conhece [Maria]
+#Guiche1 [ Manuel ]
+#Guiche2 [ Augusto ]
