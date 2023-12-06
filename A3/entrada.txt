@@ -1,0 +1,14 @@
+grupo: Ana Joao Jonas Tiao
+grupo: Carol Maia Fabiana
+grupo: Maria Manuel Augusto
+existe: Bia
+existe: Cleber
+conhece: Ana Joao
+conhece: Maia Maria
+criaFila: Guiche1
+chegou: Ana Joao
+criaFila: Guiche2
+chegou: Carol Jonas Manuel Augusto Fabiana
+desiste: Jonas Joao
+atendeFila: Guiche1 Guiche2 Guiche2
+imprime:
